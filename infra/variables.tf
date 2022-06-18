@@ -1,0 +1,3 @@
+variable "code" {
+  type = string
+}
